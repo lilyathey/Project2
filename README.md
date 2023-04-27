@@ -12,7 +12,7 @@ Lena Dindayal - https://github.com/valerieep/Group-Project2
 
 Lily Athey - https://github.com/lilyathey/MIST-4610-Project2
 
-Valerie Penaranda - https://github.com/valerieep/Group-Project
+Valerie Penaranda - https://github.com/valerieep/Group-Project2
 
 **Global Shark Attack Data Visualization** 
 
