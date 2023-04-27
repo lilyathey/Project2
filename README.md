@@ -2,6 +2,17 @@
 # Team ns_21479_4
 # Group Project Chick-fil-a Data Model
 
+#Team Memebr Repositories
+Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-2
+
+Carol Hubach - https://github.com/carolhubach/Group-Project-2
+
+Lena Dindayal - https://github.com/lenadindayal/Group-Project2
+
+Lily Athey - https://github.com/lilyathey/MIST-4610-Project2
+
+Valerie Penaranda - https://github.com/valerieep/Group-Project
+
 Global Shark Attack Data Visualization 
 
 Describing your dataset and what data it contains:
