@@ -8,7 +8,7 @@ Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-2
 
 Carol Hubach - https://github.com/carolhubach/Group-Project-2
 
-Lena Dindayal - https://github.com/valerieep/Group-Project2/blob/main
+Lena Dindayal - https://github.com/valerieep/Group-Project2
 
 Lily Athey - https://github.com/lilyathey/MIST-4610-Project2
 
